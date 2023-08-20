@@ -4,6 +4,13 @@ The Netflix clone website, created using HTML and CSS, is a visually appealing s
 https://netflixclonebyadarshlkdev.netlify.app/
 
 
+Screenshots Demo:
 
 
 
+![Screenshot 2023-07-19 232249](https://github.com/adarshlkdev/NetflixCloneWebsite/assets/129508819/52a799ac-35d7-4ab1-b6bd-c6a9e8554c0e)
+![Screenshot 2023-07-19 232723](https://github.com/adarshlkdev/NetflixCloneWebsite/assets/129508819/176f766b-deba-4425-ab67-4ce0cfb8f21b)
+![Screenshot 2023-07-19 232750](https://github.com/adarshlkdev/NetflixCloneWebsite/assets/129508819/bbcef5ce-8869-4608-9611-33ea79060943)
+![Screenshot 2023-07-19 232915](https://github.com/adarshlkdev/NetflixCloneWebsite/assets/129508819/b115aa7d-a0cb-4600-8cba-0f132330fa60)
+![Screenshot 2023-07-19 232953](https://github.com/adarshlkdev/NetflixCloneWebsite/assets/129508819/d9a95484-010a-431b-ac00-a4c69f4beed2)
+![Screenshot 2023-07-19 233633](https://github.com/adarshlkdev/NetflixCloneWebsite/assets/129508819/3c8a01b3-c7de-464c-a511-95e6c3b9be03)
